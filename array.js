@@ -20,7 +20,7 @@ console.log(typeof newArr);
 console.log("A",Arr2);
 console.log(Arr2.slice(1,6));
 console.log(Arr2.splice(1,4));
-
+//ayush
 //Array function:
 const bestfriends = ["muskan","dipali", "harshit","supriya"];
 const friends = ["digvijay","vikas","manshi","rubina"];
