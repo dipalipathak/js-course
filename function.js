@@ -55,7 +55,7 @@
 // }
 // average(3,4,5);
 
-//loops
+//loops in function
 function printTable(n){
   for(i=n;i>=n*10;i=i+n){
     console.log(i);
